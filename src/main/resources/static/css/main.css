@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+body {
+	padding: 10px; 
+}
+
+#container {
+	margin: auto;
+	width: 90%;
+	background-color: #ADD8E6;
+	border: 2px solid black;	
+}
+
+form {	
+	margin: 10px;
+}
+
+#msg {
+	border: 5px solid black;
+	background: blue;	
+	text-align: center;	 
+	width: 50%;
+	color: white;
+}
+
+#main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
